@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StudentInformationApp</string>
+    <string name="personal_details">Personal details</string>
+    <string name="name">Name</string>
+    <string name="student_informational_system">Student Informational System</string>
+    <string name="RegNo">Register No</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="academic_details">Academic Details</string>
+    <string name="department_name">Department Name</string>
+    <string name="subject_details">Subject Details</string>
+    <string name="state">State :</string>
+    <string name="subject_1">Subject 1</string>
+    <string name="subject_2">Subject 2</string>
+    <string name="subject_3">Subject 3</string>
+    <string name="subject_4">Subject 4</string>
+    <string name="subject_5">Subject 5</string>
+    <string name="mark_1">Mark 1</string>
+    <string name="mark_2">Mark 2</string>
+    <string name="mark_3">Mark 3</string>
+    <string name="mark_4">Mark 4</string>
+    <string name="mark_5">Mark 5</string>
+    <string name="gender">Gender</string>
+
+    <string-array name="states">
+        <item>Tamil Nadu</item>
+        <item>Kerala</item>
+        <item>Andhra</item>
+        <item>Karnataka</item>
+        <item>Telangana</item>
+    </string-array>
+</resources>
