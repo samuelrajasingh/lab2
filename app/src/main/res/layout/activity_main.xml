@@ -144,9 +144,9 @@
                     android:hint="@string/subject_1">
 
                     <com.google.android.material.textfield.TextInputEditText
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        /></com.google.android.material.textfield.TextInputLayout>
+                        android:layout_width="181dp"
+                        android:layout_height="wrap_content" />
+                </com.google.android.material.textfield.TextInputLayout>
                 <com.google.android.material.textfield.TextInputLayout
                     android:id="@+id/mark1"
                     android:layout_width="0dp"

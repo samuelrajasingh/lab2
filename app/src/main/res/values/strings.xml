@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">StudentInformationApp</string>
-    <string name="personal_details">Personal details</string>
+    <string name="personal_details">Personal Details</string>
     <string name="name">Name</string>
     <string name="student_informational_system">Student Informational System</string>
     <string name="RegNo">Register No</string>
@@ -20,6 +20,11 @@
     <string name="mark_4">Mark 4</string>
     <string name="mark_5">Mark 5</string>
     <string name="gender">Gender</string>
+    <string name="cgpa">CGPA</string>
+    <string name="marks">Marks</string>
+    <string name="subjects">Subjects</string>
+    <string name="grade">GRADE</string>
+    <string name="grades">GRADES</string>
 
     <string-array name="states">
         <item>Tamil Nadu</item>

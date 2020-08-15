@@ -1,7 +1,14 @@
 
-m	java:S116"QRename this field "Submit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÑË8ÉÁø»¾.
-k	java:S116"ORename this field "Ages" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åø¢8ÉÁø»¾.
-m	java:S116"QRename this field "Gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’³„8§¶õ»¾.
-r	java:S116"QRename this field "FeMale" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó•ŞÊüÿÿÿÿ8§¶õ»¾.
-X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8ªİ‚¸¾.
-p	java:S116"ORename this field "Male" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¯Á´úÿÿÿÿ8§¶õ»¾.
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8ªİ‚¸¾.
+T
+java:S1128"2Remove this unused import 'android.text.Editable'.(À”áÈşÿÿÿÿ8‡Ë£¼¾.
+F
+java:S1659D"$Declare "vCheck" on a separate line.(íÛÕúÿÿÿÿ8¶ı½¿¾.
+Q
+java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8á…¾¾.
+q
+java:S1128"TRemove this unused import 'com.google.android.material.textfield.TextInputEditText'.(°Ò8ãİ„¾¾.
+F
+java:S1659D"$Declare "bCheck" on a separate line.(íÛÕúÿÿÿÿ8¶ı½¿¾.
+F
+java:S1659D"$Declare "gCheck" on a separate line.(íÛÕúÿÿÿÿ8¶ı½¿¾.
