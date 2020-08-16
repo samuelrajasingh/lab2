@@ -1,2 +1,14 @@
 
-V	java:S110"<This class has 9 parents which is greater than 5 authorized.(Ô´ÈÜÿÿÿÿÿ
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¦Ä¼øÿÿÿÿ8€™¼‡¿.
+m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“—Œ8õŠ‰¿.
+[
+java:S4973`"9Use the "equals" method if value comparison was intended.(æ‹Çåÿÿÿÿÿ8¦è¢‹¿.
+V
+java:S4973^"9Use the "equals" method if value comparison was intended.(²ÂôÂ8¥ë¡‹¿.
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(Ô´ÈÜÿÿÿÿÿ
+[
+java:S4973b"9Use the "equals" method if value comparison was intended.(ø¤¶úûÿÿÿÿ8Şª£‹¿.
+V
+java:S4973d"9Use the "equals" method if value comparison was intended.(ÄãŸ8½‚¥‹¿.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­êøÆ8Æ‚‰ˆ¿.
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ŞŠ¹üÿÿÿÿ8á’ğˆ¿.

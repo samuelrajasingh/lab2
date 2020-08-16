@@ -2,11 +2,12 @@ package com.urk17cs290.studentinformationapp;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.material.textview.MaterialTextView;
+
+import java.util.Objects;
 
 public class DisplayOutput extends AppCompatActivity {
 
@@ -91,16 +92,14 @@ public class DisplayOutput extends AppCompatActivity {
         gd5.setText(grade5);
 
         StringBuilder stringBuilder = new StringBuilder();
-        if (vCheck == "true")
+        if (Objects.equals(vCheck, "true"))
             stringBuilder.append("Video Games,");
-        if (fCheck == "true")
+        if (Objects.equals(fCheck, "true"))
             stringBuilder.append("Foot Ball,");
-        if (bCheck == "true")
+        if (Objects.equals(bCheck, "true"))
             stringBuilder.append("Board Games,");
-        if (gCheck == "true")
+        if (Objects.equals(gCheck, "true"))
             stringBuilder.append("Gardening");
-        String hobby = stringBuilder.toString();
-        Log.e("TAG", "onCreate: hobby:" + hobby);
-        Hob.setText(hobby);
+        Hob.setText(stringBuilder.toString());
     }
 }
