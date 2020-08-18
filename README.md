@@ -1,5 +1,6 @@
-#Exercise 2
-##Student Information App
+# Exercise 2
+
+## Student Information App
 <table>
   <tr>
     <td><img src="./images/i1.png" width=300 height=240></td>
